@@ -106,7 +106,7 @@ I’m a passionate Full-Stack Web Developer focused on building modern, responsi
 
 
 
-### 📊 GITHUB STATISTICS & ANALYSIS:
+### 📊 Github Statistics & Analysis:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdsakibdev/mdsakibdev/output/github-contribution-grid-snake-dark.svg">
@@ -115,7 +115,7 @@ I’m a passionate Full-Stack Web Developer focused on building modern, responsi
 </picture>
 
 ---
-## 📊 GitHub Stats
+## 📊 Github Stats
 <table align="center">
   <tr>
     <td align="center">
