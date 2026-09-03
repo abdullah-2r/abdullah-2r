@@ -39,7 +39,7 @@ I’m a passionate Full-Stack Web Developer focused on building modern, responsi
 
 
 <!--- technology --->
-##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
+<!-- ##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
 
 ### Languages:
 [![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript,)](https://github.com/touhidcodes)
@@ -57,23 +57,7 @@ I’m a passionate Full-Stack Web Developer focused on building modern, responsi
 [![Design & Graphics](https://skillicons.dev/icons?i=figma,ai,ps)](https://github.com/touhidcodes)
 
 ### Tools & Technologies:
-[![Tools & Technologies](https://skillicons.dev/icons?i=windows,notion,git,github,vscode,)](https://github.com/touhidcodes)
-
-<br/>
-
-<div align="center">
-  <h2><img src="https://api.iconify.design/lucide/trophy.svg?color=%233B82F6" width="24" align="absmiddle"/> Competitive Programming Profiles</h2>
-  <a href="https://codeforces.com/profile/Nafiz_365"><img src="https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/Nafiz_365/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://www.codechef.com/users/nafiz_365"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-  <a href="https://www.hackerrank.com/profile/Nafiz_365"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-  <a href="https://judge.beecrowd.com/en/profile/1034232"><img src="https://img.shields.io/badge/BeeCrowd-FF6F00?style=for-the-badge"/></a>
-  <a href="https://www.codewars.com/users/Nafiz-365"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white"/></a>
-  <a href="https://vjudge.net/user/Nafiz_365"><img src="https://img.shields.io/badge/VJudge-0A0A0A?style=for-the-badge"/></a>
-</div>
-
----
-
+[![Tools & Technologies](https://skillicons.dev/icons?i=windows,notion,git,github,vscode,)](https://github.com/touhidcodes) -->
 <div align="center">
   <h2><img src="https://api.iconify.design/lucide/layers.svg?color=%233B82F6" width="24" align="absmiddle"/> Tech Stack</h2>
 </div>
@@ -100,6 +84,23 @@ I’m a passionate Full-Stack Web Developer focused on building modern, responsi
   <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" />
   <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black" />
 </p>
+
+
+
+<br/>
+
+<div align="center">
+  <h2><img src="https://api.iconify.design/lucide/trophy.svg?color=%233B82F6" width="24" align="absmiddle"/> Competitive Programming Profiles</h2>
+  <a href="https://codeforces.com/profile/Nafiz_365"><img src="https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Nafiz_365/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.codechef.com/users/nafiz_365"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/profile/Nafiz_365"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+  <a href="https://judge.beecrowd.com/en/profile/1034232"><img src="https://img.shields.io/badge/BeeCrowd-FF6F00?style=for-the-badge"/></a>
+  <a href="https://www.codewars.com/users/Nafiz-365"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white"/></a>
+  <a href="https://vjudge.net/user/Nafiz_365"><img src="https://img.shields.io/badge/VJudge-0A0A0A?style=for-the-badge"/></a>
+</div>
+
+---
 
 
 
