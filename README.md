@@ -1,12 +1,10 @@
 ![Full stock webdebloper ](https://i.postimg.cc/4xJVLvvd/banner-img-copy1374673847481517825.jpg)
 <h1 align="center">Hi 👋, I'm Abdullah Al Naeem</h1>
 
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=36BCF7&center=true&vcenter=true&width=600&height=50&lines=Full-Stack+Web+Developer;React+%26+Next.js+Developer;JavaScript+%26+TypeScript+Enthusiast;Passionate+About+Scalable+Web+Apps" alt="Typing SVG" />
-</p> -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=36BCF7&center=true&vcenter=true&width=600&height=50&lines=Full-Stack+Web+Developer;React+%26+Next.js+Developer;JavaScript+%26+TypeScript+Enthusiast;Passionate+About+Scalable+Web+Apps" alt="Typing SVG" />
 </p>
+
 
 
 ## 👨‍💻 About Me
@@ -78,21 +76,14 @@ I’m a passionate Full-Stack Web Developer focused on building modern, responsi
 
 ### 📊 GITHUB STATISTICS & ANALYSIS:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jewelranadev&show_icons=true&theme=tokyonight&hide_border=true" alt="Jewel Rana GitHub Stats">
-</p>
+<!-- <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdsakibdev/mdsakibdev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mdsakibdev/mdsakibdev/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mdsakibdev/mdsakibdev/output/github-contribution-grid-snake.svg">
+</picture>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jewelranadev&theme=tokyonight&hide_border=true" alt="Jewel Rana GitHub Streak">
-</p>
+--- -->
 
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark" alt="GitHub Streak" />
-</p>
-
----
 
 ## 🎯 2026 Goals
 
