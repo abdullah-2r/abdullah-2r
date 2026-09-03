@@ -1,4 +1,4 @@
-![Full stock webdebloper ](https://i.postimg.cc/QtZY239n/banner-img-1374673847481517825.jpg)
+![Full stock webdebloper ](https://i.postimg.cc/4xJVLvvd/banner-img-copy1374673847481517825.jpg)
 <h1 align="center">Hi 👋, I'm Abdullah Al Naeem</h1>
 
 <p align="center">
