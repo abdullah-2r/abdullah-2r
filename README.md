@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=36BCF7&center=true&vcenter=true&width=600&height=50&lines=Full-Stack+Web+Developer;React+%26+Next.js+Developer;JavaScript+%26+TypeScript+Enthusiast;Passionate+About+Scalable+Web+Apps" alt="Typing SVG" />
 </p>
 
-
+### 💻 Building for the Web • 🚀 Learning Full Stack • 🧠 Solving Problems
 
 ## 👨‍💻 About Me
 
@@ -115,11 +115,42 @@ I’m a passionate Full-Stack Web Developer focused on building modern, responsi
 </picture>
 
 ---
+## 📊 GitHub Stats
+<table align="center">
+  <tr>
+    <td align="center">
+<img
+  src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdullah-2r&show_icons=true&theme=tokyonight&hide_border=true"
+  alt="GitHub Stats"
+/>
+    </td>
+    <td align="center">
+      <img
+  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdullah-2r&layout=compact&theme=tokyonight&hide_border=true"
+  alt="Most Used Languages"
+/>
+    </td>
+  </tr>
+</table>
+
+
+  <div align="center">
+      <img
+  src="https://streak-stats.demolab.com/?user=abdullah-2r&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"/>
+    </div>
+    
+   </br>  
+ 
+---
+
+
+
 
 <!-- "[![GitHub Streak](https://streak-stats.demolab.com?user=abdullah-2r&theme=blueberry-duo&hide_border=true)](https://git.io/streak-stats)"> -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-2r&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
+</p> -->
 
 
 ## 🎯 2026 Goals
