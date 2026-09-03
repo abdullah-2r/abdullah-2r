@@ -3,16 +3,12 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=36BCF7&center=true&vcenter=true&width=600&height=50&lines=Full-Stack+Web+Developer;React+%26+Next.js+Developer;JavaScript+%26+TypeScript+Enthusiast;Passionate+About+Scalable+Web+Apps" alt="Typing SVG" />
-
-  <br />
-
-  ### 💻 Building for the Web • 🚀 Learning Full Stack • 🧠 Solving Problems
-
+  <br>
+  
 </div>
 
-<br />
+### 💻 Building for the Web • 🚀 Learning Full Stack • 🧠 Solving Problems
 
----
 ## 👨‍💻 About Me
 
 I’m a passionate Full-Stack Web Developer focused on building modern, responsive, and user-friendly web applications. I enjoy turning ideas into real-world products and continuously improving my problem-solving and development skills.
