@@ -118,7 +118,7 @@ I’m a passionate Full-Stack Web Developer focused on building modern, responsi
 
 <!-- "[![GitHub Streak](https://streak-stats.demolab.com?user=abdullah-2r&theme=blueberry-duo&hide_border=true)](https://git.io/streak-stats)"> -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-2r&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-2r&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 
