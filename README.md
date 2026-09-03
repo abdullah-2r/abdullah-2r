@@ -212,6 +212,7 @@ I’m a passionate Full-Stack Web Developer focused on building modern, responsi
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-2r&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p> -->
 
+<div>
 
 ## 🎯 2026 Goals
 
@@ -222,12 +223,18 @@ I’m a passionate Full-Stack Web Developer focused on building modern, responsi
 - 🧠 Improve problem-solving and algorithmic thinking
 - 🌍 Build and deploy real-world projects
 - 🤝 Contribute to open-source projects
+
+</div>
+
+
 <div>
 <p align="center"> <b>Thanks for visiting my profile! 🚀</b> </p>
 
 <p align="center"> <i>Let's build something amazing together.</i> </p>
 </div>
 
+<div>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdullah-2r&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
+</div>
