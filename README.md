@@ -41,61 +41,8 @@ I’m a passionate Full-Stack Web Developer focused on building modern, responsi
 
 --- -->
 
-## 🤝 Connect With Me
 
-<div align="center">
-  
-  <div align="center">
-     <a href="https://www.facebook.com/">
-        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-      </a>
-   
- 
-  <a href="[YOUR_PORTFOLIO_URL](https://abdullah-2r.github.io/responsive-web-dev-portfolio/)">
-        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-      </a>
-   
-    
-  <a href="mailto:abdullahalnaeem37@gmail.com">
-        <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-      </a>
-   
-    
-  <a href="YOUR_TWITCH_URL">
-  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
-</a>
- 
-  <a href="YOUR_INSTAGRAM_URL">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-    </div>
-  
-  <div align="center">
-  
-    
-
-   <a href="https://discord.com/">
-        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-      </a>
-    
-   
-  <a href="YOUR_LINKEDIN_URL">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-      </a>
- 
-  <a href="YOUR_X_URL">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-    </a>   
-
-      
-  
-  </div>
-</div>
-
-
-</br>
-
----
+<!-- --- -->
 
 
 <!--- technology --->
@@ -162,7 +109,61 @@ I’m a passionate Full-Stack Web Developer focused on building modern, responsi
 
 ---
 
+## 🤝 Connect With Me
 
+<div align="center">
+  
+  <div align="center">
+     <a href="https://www.facebook.com/">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+      </a>
+   
+ 
+  <a href="[YOUR_PORTFOLIO_URL](https://abdullah-2r.github.io/responsive-web-dev-portfolio/)">
+        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+      </a>
+   
+    
+  <a href="mailto:abdullahalnaeem37@gmail.com">
+        <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+      </a>
+   
+    
+  <a href="YOUR_TWITCH_URL">
+  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
+</a>
+ 
+  <a href="YOUR_INSTAGRAM_URL">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+    </div>
+  
+  <div align="center">
+  
+    
+
+   <a href="https://discord.com/">
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+      </a>
+    
+   
+  <a href="YOUR_LINKEDIN_URL">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
+ 
+  <a href="YOUR_X_URL">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+    </a>   
+
+      
+  
+  </div>
+</div>
+
+
+</br>
+
+---
 
 
 
