@@ -109,7 +109,11 @@ I’m a passionate Full-Stack Web Developer focused on building modern, responsi
 
 ---
 
+<div align ="center">
+
 ## 🤝 Connect With Me
+
+</div>
 
 <div align="center">
   
