@@ -115,7 +115,9 @@ I’m a passionate Full-Stack Web Developer focused on building modern, responsi
 </picture>
 
 ---
+<p align = center>
 [![GitHub Streak](https://streak-stats.demolab.com?user=abdullah-2r&theme=blueberry-duo&hide_border=true)](https://git.io/streak-stats)
+</p>
 
 ## 🎯 2026 Goals
 
