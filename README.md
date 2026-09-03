@@ -6,7 +6,7 @@
   <br>
   ### 💻 Building for the Web • 🚀 Learning Full Stack • 🧠 Solving Problems
 </div>
-<br>
+
 ---
 ## 👨‍💻 About Me
 
