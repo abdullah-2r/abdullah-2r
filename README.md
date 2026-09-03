@@ -1,14 +1,14 @@
 ![Full stock webdebloper ](https://i.postimg.cc/4xJVLvvd/banner-img-copy1374673847481517825.jpg)
 <h1 align="center">Hi 👋, I'm Abdullah Al Naeem</h1>
 
-<p align="center">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=36BCF7&center=true&vcenter=true&width=600&height=50&lines=Full-Stack+Web+Developer;React+%26+Next.js+Developer;JavaScript+%26+TypeScript+Enthusiast;Passionate+About+Scalable+Web+Apps" alt="Typing SVG" />
   <br>
-    ### 💻 Building for the Web • 🚀 Learning Full Stack • 🧠 Solving Problems
-</p>
+  ### 💻 Building for the Web • 🚀 Learning Full Stack • 🧠 Solving Problems
+</div>
 
-
-
+<br>
+---
 ## 👨‍💻 About Me
 
 I’m a passionate Full-Stack Web Developer focused on building modern, responsive, and user-friendly web applications. I enjoy turning ideas into real-world products and continuously improving my problem-solving and development skills.
