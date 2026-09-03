@@ -108,13 +108,13 @@ I’m a passionate Full-Stack Web Developer focused on building modern, responsi
 
 ### 📊 GITHUB STATISTICS & ANALYSIS:
 
-<!-- <picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdsakibdev/mdsakibdev/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mdsakibdev/mdsakibdev/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mdsakibdev/mdsakibdev/output/github-contribution-grid-snake.svg">
 </picture>
 
---- -->
+---
 
 
 ## 🎯 2026 Goals
